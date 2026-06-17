@@ -24,6 +24,10 @@ starts the CM55 application.
 
 No other display option is supported by this project configuration.
 
+![PSOC Edge E84 AI Kit board](images/kit-pse84-ai-board.png)
+
+_Board image source: [Infineon KIT_PSE84_AI evaluation board page](https://www.infineon.com/evaluation-board/kit-pse84-ai)._
+
 ## Display Connection
 
 Connect the Waveshare 4.3-inch Raspberry Pi DSI display to the Edge AI Kit RPi
@@ -91,6 +95,8 @@ EdgeAI Smart Pong v1.0.0
 ```
 
 ## Application Notes
+
+![Smart Pong running on the Waveshare 4.3-inch display](images/smart-pong-game-screen.jpg)
 
 - Smart Pong starts automatically after programming.
 - The display resolution is fixed at 800x480.
