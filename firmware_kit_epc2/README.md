@@ -164,7 +164,7 @@ This example requires no additional software or tools.
 
 See [Using the code example](docs/using_the_code_example.md) for instructions on creating a project, opening it in various supported IDEs, and performing tasks, such as building, programming, and debugging the application within the respective IDEs.
 
-1. Connect the selected LCD display to the board according to the instructions given in [Display setup](#supported-display-and-electrical-connection-with-kit_pse84_eval) section
+1. Connect the selected LCD display to the board according to the instructions given in the [Display setup](#supported-display-and-electrical-connection) section
 
 2. Connect the board to your PC using the provided USB cable through the KitProg3 USB connector
 
